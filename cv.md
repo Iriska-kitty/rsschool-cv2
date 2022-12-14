@@ -1,6 +1,6 @@
 # **Irina Chislova**
 
-![Foto](img/IMG-20220927-WA0002-round.png)
+<img src="img/IMG-20220927-WA0002-round.png" width="300">
 
 ---
 
